@@ -15,9 +15,7 @@ the provided schema provides normalized solution
    * City	
    * State	
    * Zip	
-   * Num 
-   * Family 
-   * Members	
+   * Num Family Members	
    * Family Member 1	
    * Family Member 2
    * Family Member 3	
@@ -32,9 +30,7 @@ the provided schema provides normalized solution
    * Family Member 12
    * Active Member	
    * Age	
-   * Num 
-   * Devices
-   * Activated	
+   * Num Devices Activated	
    * Device 1
    * Device 2
    * Device 3	
@@ -47,10 +43,9 @@ the provided schema provides normalized solution
    * Device 10
    * Device 11
    * Device 12
-   * Parental 
-   * Control Enabled
+   * Parental Control Enabled
    * Monthly Bill
-   * Overdue 
-   * Amount	Notes   
+   * Overdue Amount	
+   * Notes   
      
     > *Too see sample data check streaming_vees_xlsx  
