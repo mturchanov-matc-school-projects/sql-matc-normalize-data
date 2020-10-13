@@ -4,7 +4,7 @@ Streaming service has various unnormalized data
 the provided schema provides normalized solution
  
    
-   ### Unnormalized columns:       
+   ### Initially unnormalized columns:       
    * Title	
    * Parental 
    * Control
